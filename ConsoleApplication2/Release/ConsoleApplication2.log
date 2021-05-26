@@ -1,0 +1,36 @@
+﻿  display_game_functions.cpp
+c:\users\ocanath\google drive\projects\vs_projects\consoleapplication2\consoleapplication2\display_game_functions.h(8): fatal error C1083: Cannot open include file: 'opencv2/imgproc.hpp': No such file or directory
+  GameState.cpp
+GameState.cpp(20): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+GameState.cpp(21): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+GameState.cpp(24): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+GameState.cpp(25): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+GameState.cpp(28): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+GameState.cpp(29): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+GameState.cpp(32): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+GameState.cpp(33): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+GameState.cpp(43): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+GameState.cpp(49): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+GameState.cpp(54): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+GameState.cpp(56): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+GameState.cpp(72): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+GameState.cpp(74): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+GameState.cpp(175): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+GameState.cpp(176): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+GameState.cpp(204): warning C4018: '>' : signed/unsigned mismatch
+GameState.cpp(204): warning C4018: '<' : signed/unsigned mismatch
+GameState.cpp(216): warning C4018: '>' : signed/unsigned mismatch
+GameState.cpp(216): warning C4018: '<' : signed/unsigned mismatch
+GameState.cpp(378): warning C4305: '+=' : truncation from 'double' to 'float'
+GameState.cpp(383): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+GameState.cpp(384): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+GameState.cpp(401): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+GameState.cpp(402): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+GameState.cpp(426): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+GameState.cpp(427): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+GameState.cpp(441): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+GameState.cpp(442): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+GameState.cpp(459): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+GameState.cpp(460): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+  Source.cpp
+Source.cpp(7): fatal error C1083: Cannot open include file: 'opencv2/imgproc.hpp': No such file or directory
